@@ -52,7 +52,7 @@ def mainprogram():
  #size
     screen.geometry("400x400")
  #Icon
-    icon=PhotoImage(file="C:/Users/Lina-pc/OneDrive/Bureau/bureau/work/1.png")# add image path here 
+    icon=PhotoImage(file="1.png")# add image path here 
     screen.iconphoto(False,icon)
     #Title
     screen.title("ToolApp")
